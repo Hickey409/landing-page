@@ -1,0 +1,18 @@
+.ultra_light_font
+  {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 100;
+  }
+
+.light_font
+  {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 200;
+    color: #001524;
+  }
+
+.logo_font
+  {
+    font-family: 'Playfair Display', serif;
+    color: #001524;
+  }
